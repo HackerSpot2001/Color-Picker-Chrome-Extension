@@ -1,0 +1,16 @@
+{
+    "manifest_version":3,
+    "name": "Color Picker",
+    "description": "A simple color Picker extention",
+    "version":"1",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "16":"imgs/icon16.png",
+        "32":"imgs/icon32.png",
+        "48":"imgs/icon48.png",
+        "128":"imgs/icon128.png"
+    }
+
+}
